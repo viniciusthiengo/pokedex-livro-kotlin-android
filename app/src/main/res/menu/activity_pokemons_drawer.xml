@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cat_00"
+            android:checked="true"
+            android:title="@string/item_todos" />
+        <item
+            android:id="@+id/cat_01"
+            android:title="@string/item_eletrico" />
+        <item
+            android:id="@+id/cat_02"
+            android:title="@string/item_fogo" />
+        <item
+            android:id="@+id/cat_03"
+            android:title="@string/item_grama" />
+        <item
+            android:id="@+id/cat_04"
+            android:title="@string/item_inseto" />
+    </group>
+
+    <item android:title="@string/menu_interno">
+        <menu>
+            <item
+                android:id="@+id/config"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/item_meus_compartilhamentos" />
+            <item
+                android:id="@+id/contato"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_contato_equipe_app" />
+        </menu>
+    </item>
+</menu>

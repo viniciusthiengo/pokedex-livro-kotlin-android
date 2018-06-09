@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokédex</string>
+
+    <string name="navigation_drawer_open">Abrir menu gaveta</string>
+    <string name="navigation_drawer_close">Fechar menu gaveta</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="header_pokemon">Pokémon escolhido</string>
+    <string name="description">Descrição</string>
+    <string name="number">Número</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="genre">Sexo</string>
+    <string name="category">Categoria</string>
+    <string name="main_skills">Principais habilidades</string>
+    <string name="kind">Tipo</string>
+    <string name="weakness">Fraquezas</string>
+    <string name="profile_description">Imagem de perfil de usuário conectado</string>
+    <string name="profile_name">Ash Ketchum</string>
+    <string name="profile_email">ash.ketchum@thiengo.com.br</string>
+    <string name="pokemon">Pokémon</string>
+    <string name="not_working_yet">Ainda falta implementar esta parte</string>
+    <string name="item_todos">Todos</string>
+    <string name="item_eletrico">Elétrico</string>
+    <string name="item_fogo">Fogo</string>
+    <string name="item_grama">Grama</string>
+    <string name="item_inseto">Inseto</string>
+    <string name="menu_interno">Interno</string>
+    <string name="item_meus_compartilhamentos">Meus compartilhamentos</string>
+    <string name="item_contato_equipe_app">Contato equipe app</string>
+</resources>

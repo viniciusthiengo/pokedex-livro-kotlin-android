@@ -1,0 +1,4 @@
+#Sat Jun 09 16:10:24 BRT 2018
+base.0=/Users/viniciusthiengo/Desktop/Applications/Pokdex/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

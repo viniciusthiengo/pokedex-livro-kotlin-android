@@ -35,7 +35,7 @@ class DetalhesActivity :
 
         pokemon = intent.getParcelableExtra<Pokemon>(Pokemon.KEY)
 
-        iv_header.setImageResource( pokemon.imagemRes ?: 0 )
+        iv_header.setImageResource( pokemon.imagemRes )
         tv_descricao.text = pokemon.descricao
         tv_numero.text = pokemon.numero.toString().padStart(3, '0')
         tv_altura.text = pokemon.altura
@@ -62,16 +62,17 @@ class DetalhesActivity :
     }
 
     fun customToast(){
+
+        // Novo layout, para o Toast, inflado.
         val llToast = layoutInflater.inflate(
                 R.layout.toast_custom,
                 findViewById(R.id.ll_toast))
 
+        // Acessando o TextView do novo layout e atualizando o valor e família de fontes dele.
         val tvInfo = llToast.findViewById<TextView>( R.id.tv_info )
+        tvInfo.typeface = Typeface.create( "sans-serif", Typeface.NORMAL)
 
-        tvInfo.typeface = Typeface.create(
-                "sans-serif",
-                Typeface.NORMAL)
-
+        // Criando e configurando um novo Toast e ao final apresentando ele em tela.
         val toast = Toast( applicationContext )
         toast.duration = Toast.LENGTH_SHORT
         toast.view = llToast

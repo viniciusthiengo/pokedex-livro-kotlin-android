@@ -7,10 +7,10 @@ INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/An
 MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/394cb0aac89a79a7a122ac2aab8941f9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5eb3dc76f617955867cb949ce232d43c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cca49f0e478d672c16bfb0028e174d84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6220b6609b98b8ace3682cb44a0273cb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6910618a228864b2582346abc3ea857a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/16ed920d368bff0b84141c9d09f28990/AndroidManifest.xml:17:1-22:12
@@ -19,8 +19,8 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/vinicius
 MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/AndroidManifest.xml:2:1-32:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/AndroidManifest.xml:2:1-32:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/AndroidManifest.xml:2:1-32:12
@@ -92,14 +92,14 @@ MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gra
 MERGED from [com.android.support:cardview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5eb3dc76f617955867cb949ce232d43c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cca49f0e478d672c16bfb0028e174d84/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cca49f0e478d672c16bfb0028e174d84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c9c5cc2c92aacaaa7f04a8b15d5288fb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6220b6609b98b8ace3682cb44a0273cb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6220b6609b98b8ace3682cb44a0273cb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6910618a228864b2582346abc3ea857a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6910618a228864b2582346abc3ea857a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e9329b91833fbe01d9ac018cdb2f0101/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33413044b760872a6753df17fe61e28d/AndroidManifest.xml:20:5-44
@@ -116,10 +116,10 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradl
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/db21eebf5deca505c791e193716e38b1/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/08983a4c94a4b8c92dde714cffeb792d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e91947f6813e60cae61558d9f728181c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/79d70489d563f4ceb6ec4cf9747d267e/AndroidManifest.xml:20:5-44
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/Pokdex/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

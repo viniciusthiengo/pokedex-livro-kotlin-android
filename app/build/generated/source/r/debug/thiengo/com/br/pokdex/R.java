@@ -3209,6 +3209,7 @@ public final class R {
     public static final int pokemon_adaptado=0x7f080001;
     public static final int pokemon_hollow=0x7f080002;
     public static final int pokemon_solid=0x7f080003;
+    public static final int sans_serif=0x7f080004;
   }
   public static final class id {
     public static final int ALT=0x7f090000;
@@ -3512,7 +3513,7 @@ public final class R {
   }
   public static final class menu {
     public static final int activity_pokemons_drawer=0x7f0c0000;
-    public static final int pokemons=0x7f0c0001;
+    public static final int menu=0x7f0c0001;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0d0000;
@@ -3557,7 +3558,7 @@ public final class R {
     public static final int description=0x7f0e0023;
     public static final int genre=0x7f0e0024;
     public static final int header_pokemon=0x7f0e0025;
-    public static final int height =0x7f0e0026;
+    public static final int height=0x7f0e0026;
     public static final int item_contato_equipe_app=0x7f0e0027;
     public static final int item_eletrico=0x7f0e0028;
     public static final int item_fogo=0x7f0e0029;
@@ -3583,7 +3584,7 @@ public final class R {
     public static final int profile_name=0x7f0e003d;
     public static final int search_menu_title=0x7f0e003e;
     public static final int status_bar_notification_info_overflow=0x7f0e003f;
-    public static final int weakness =0x7f0e0040;
+    public static final int weakness=0x7f0e0040;
     public static final int weight=0x7f0e0041;
   }
   public static final class style {

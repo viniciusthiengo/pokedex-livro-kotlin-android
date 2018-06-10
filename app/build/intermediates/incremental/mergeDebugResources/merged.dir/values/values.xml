@@ -703,7 +703,7 @@
     <string name="description">Descrição</string>
     <string name="genre">Sexo</string>
     <string name="header_pokemon">Pokémon escolhido</string>
-    <string name="hight">Altura</string>
+    <string name="height">Altura</string>
     <string name="item_contato_equipe_app">Contato equipe app</string>
     <string name="item_eletrico">Elétrico</string>
     <string name="item_fogo">Fogo</string>
@@ -729,7 +729,7 @@
     <string name="profile_name">Ash Ketchum</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="weekness">Fraquezas</string>
+    <string name="weakness">Fraquezas</string>
     <string name="weight">Peso</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

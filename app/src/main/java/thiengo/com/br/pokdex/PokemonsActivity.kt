@@ -51,7 +51,7 @@ class PokemonsActivity :
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        menuInflater.inflate(R.menu.pokemons, menu)
+        menuInflater.inflate(R.menu.menu, menu)
         return true
     }
 
@@ -65,13 +65,19 @@ class PokemonsActivity :
     }
 
     fun customSnackbar( view: View){
+
+        // Obtendo a referência ao SnackBar, referência já com configuração de ação.
         val snackbar = Snackbar
                 .make( view,"Ainda falta implementar uma ação", Snackbar.LENGTH_LONG)
                 .setAction("Ação", null)
 
+        // Acessando o TextView interno ao SnackBar.
         val tv = snackbar.view.findViewById<TextView>( android.support.design.R.id.snackbar_text )
+
+        // Atualizando a família de fonte do TextView interno ao SnackBar.
         tv.typeface = Typeface.create("sans-serif", Typeface.NORMAL)
 
+        // Apresentando em tela a informação via SnackBar.
         snackbar.show()
     }
 

@@ -781,6 +781,7 @@ int font indie_flower 0x7f080000
 int font pokemon_adaptado 0x7f080001
 int font pokemon_hollow 0x7f080002
 int font pokemon_solid 0x7f080003
+int font sans_serif 0x7f080004
 int id ALT 0x7f090000
 int id CTRL 0x7f090001
 int id FUNCTION 0x7f090002
@@ -1076,7 +1077,7 @@ int layout select_dialog_singlechoice_material 0x7f0b0040
 int layout support_simple_spinner_dropdown_item 0x7f0b0041
 int layout toast_custom 0x7f0b0042
 int menu activity_pokemons_drawer 0x7f0c0000
-int menu pokemons 0x7f0c0001
+int menu menu 0x7f0c0001
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int string abc_action_bar_home_description 0x7f0e0000
@@ -1117,7 +1118,7 @@ int string character_counter_pattern 0x7f0e0022
 int string description 0x7f0e0023
 int string genre 0x7f0e0024
 int string header_pokemon 0x7f0e0025
-int string hight 0x7f0e0026
+int string height 0x7f0e0026
 int string item_contato_equipe_app 0x7f0e0027
 int string item_eletrico 0x7f0e0028
 int string item_fogo 0x7f0e0029
@@ -1143,7 +1144,7 @@ int string profile_email 0x7f0e003c
 int string profile_name 0x7f0e003d
 int string search_menu_title 0x7f0e003e
 int string status_bar_notification_info_overflow 0x7f0e003f
-int string weekness 0x7f0e0040
+int string weakness 0x7f0e0040
 int string weight 0x7f0e0041
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001

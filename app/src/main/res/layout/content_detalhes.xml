@@ -37,7 +37,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_numero"
@@ -62,7 +62,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_altura"
@@ -87,7 +87,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_peso"
@@ -112,7 +112,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_sexo"
@@ -137,7 +137,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_categoria"
@@ -162,7 +162,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_habilidades"
@@ -187,7 +187,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_tipo"
@@ -212,7 +212,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
 
         <TextView
             android:id="@+id/tv_t_fraquezas"
@@ -237,6 +237,6 @@
             android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="4dp"
-            android:fontFamily="sans-serif" />
+            android:fontFamily="@font/sans_serif" />
     </RelativeLayout>
 </android.support.v4.widget.NestedScrollView>

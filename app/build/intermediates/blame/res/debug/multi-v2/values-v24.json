@@ -4,17 +4,7 @@
             "outputFile": "/Users/viniciusthiengo/Desktop/Applications/Pokdex/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6910618a228864b2582346abc3ea857a/res/values-v24/values-v24.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fa6875ddfbc4fe97a9d4dd1e458c922/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

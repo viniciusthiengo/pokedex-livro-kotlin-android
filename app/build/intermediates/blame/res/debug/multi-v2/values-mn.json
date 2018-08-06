@@ -4,7 +4,7 @@
             "outputFile": "/Users/viniciusthiengo/Desktop/Applications/Pokdex/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/94e4b09cdeabf8d328d24bc4c1dfdac2/res/values-mn/values-mn.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d61e2c13263fa6397516c03d3604f4a2/res/values-mn/values-mn.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
